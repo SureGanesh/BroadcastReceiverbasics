@@ -11,7 +11,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="BroadcastReceiver App Start !"
-        android:gravity="center"
-         />
+        android:gravity="center" />
+    <Button
+        android:id="@+id/btn_broadcast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Broadcast Intent" />
 
 </LinearLayout>
